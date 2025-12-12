@@ -60,7 +60,12 @@
   <a href="https://github.com/Solitaryseeker" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Solitaryseeker-black?logo=github" />
   </a>
+  &nbsp;
+  <a href="mailto:quantumsolitaryseeker@gmail.com">
+    <img src="https://img.shields.io/badge/Email-quantumsolitaryseeker%40gmail.com-red?logo=gmail" />
+  </a>
 </p>
 
 ###
+
 
