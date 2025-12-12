@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating models & meaningful insights since 2022<br>
+✨ Creating models & meaningful insights since 2023<br>
 📚 I'm currently learning <strong>Deep Learning, LLMs, and MLOps</strong><br>
 🎯 Goals: Become a full-time Data Scientist & build impactful AI projects<br>
 🎲 Fun fact: I break models first… then fix them 😄
