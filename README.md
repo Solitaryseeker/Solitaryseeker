@@ -1,4 +1,4 @@
-# Solitary Seeker
+# Rohit Sahu 
 
 AI Research Enthusiast | Time-Series Modeling | Energy Systems AI  
 
@@ -16,53 +16,43 @@ I am a B.Tech student interested in applying machine learning and deep learning 
 
 ---
 
-## Research Projects
+## 📂 Projects
 
-### Battery Life Prediction using Hybrid Machine Learning
-Developed a hybrid framework combining statistical feature engineering with machine learning models to predict lithium-ion battery cycle life. The model analyzes early-cycle electrochemical signals to forecast long-term battery degradation.
+### 🔋 Battery Life Prediction using Hybrid ML
+Developed a hybrid machine learning framework to predict lithium-ion battery cycle life using statistical feature engineering and machine learning models.
 
-**Methods:** Feature Engineering, XGBoost, Deep Learning  
-**Goal:** Early prediction of battery failure and degradation trends.
+### 🤖 Transformer Architecture Implementation
+Implemented and studied transformer-based models such as iTransformer for time-series forecasting and sequence modeling.
 
----
-
-### Transformer Architecture Implementation for Time-Series
-Implemented transformer-based architectures including iTransformer for time-series forecasting tasks. Evaluated performance against traditional recurrent neural networks.
-
-**Methods:** PyTorch, Transformer Models, Attention Mechanisms  
-**Focus:** Efficient sequence modeling and long-range dependency learning.
+### 📈 Time-Series Forecasting using LSTM
+Built LSTM-based models for forecasting sequential data and compared their performance with transformer architectures.
 
 ---
 
-### Time-Series Forecasting using LSTM
-Built LSTM-based models for sequential data prediction and compared performance with transformer-based approaches on forecasting problems.
-
-**Methods:** LSTM Networks, Sequence Modeling, Data Normalization
-
----
-
-## Technical Skills
+## 🛠 Technical Skills
 
 **Programming**
 - Python
 
-**Libraries**
+**Libraries & Tools**
 - PyTorch
 - Scikit-learn
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 
 **Machine Learning**
-- Time-Series Modeling
 - Deep Learning
+- Time-Series Modeling
 - Feature Engineering
 - Model Evaluation
 
 ---
 
-## Research Goals
+## 🎯 Research Goals
 
-My long-term goal is to contribute to research at the intersection of **artificial intelligence and energy systems**, particularly in areas such as battery health prediction, sustainable energy optimization, and intelligent forecasting systems.
+My goal is to contribute to research in **AI for energy systems**, focusing on intelligent forecasting models and battery health prediction to support sustainable technologies.
 
 ---
+
+
