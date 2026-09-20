@@ -2,7 +2,7 @@
 
 AI Research Enthusiast | Time-Series Modeling | Energy Systems AI  
 
-I am a B.Tech student interested in applying machine learning and deep learning methods to solve real-world problems in energy systems and forecasting. My work focuses on time-series modeling, transformer-based architectures, and battery health prediction.
+I am a B.Tech Final year Computer Science student interested in applying machine learning and deep learning methods to solve real-world problems in energy systems and forecasting. My work focuses on time-series modeling, transformer-based architectures, and battery health prediction.
 
 ---
 
