@@ -45,7 +45,7 @@ Co-authored and presented a research paper published in the conference proceedin
 [Lithium-Ion Battery Cycle-Life Dataset](https://github.com/Solitaryseeker/Battery-Life-cycle-data-preparation-)
 
 - Published a lithium-ion battery cycle-life time-series dataset on [Kaggle](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset) for machine learning and deep learning based Remaining Useful Life (RUL) prediction.
-- Dataset received 4,000+ views and 700+ downloads, supporting research in battery degradation modeling and predictive maintenance.
+- Dataset received 4,600+ views and 900+ downloads, supporting research in battery degradation modeling and predictive maintenance.
 
 ---
 ## Research Direction
